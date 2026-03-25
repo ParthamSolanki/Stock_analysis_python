@@ -50,7 +50,7 @@ Plotted candlestick using OHLC data and then overlayed 20 & 50 days moving avera
 
 ### Video demo
 
-![2 HDFC Video](Images/2_HDFC.mp4)
+![2 HDFC Video](Images/2_HDFC.gif)
 
 ### Insights
 - All the stocks have shown strong growth.
